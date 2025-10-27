@@ -119,14 +119,15 @@ TF yapısı `ros2 run tf2_tools view_frames` komutuyla **PDF olarak** kaydedilmi
 
 ### 📸 7. Görseller
 
-#### 🏀 Gazebo ortamında robot + top görüntüsü  
-![Gazebo ortamında robot ve top](images/Ekran%20Görüntüsü%20-%202025-10-27%2017-12-41.png)
+#### 🏀 Gazebo ortamında robot + top görüntüsü
+![Gazebo ortamında robot ve top]](images/Ekran%20Görüntüsü%20-%202025-10-27%2017-15-01.png)
 
-#### 🧭 RViz ekranı (model + TF + kamera görüntüsü)  
-![RViz görüntüsü](images/Ekran%20Görüntüsü%20-%202025-10-27%2017-15-01.png)
+#### 🧭 RViz ekranı (model + TF + kamera görüntüsü)
+![RViz görüntüsü](images/Ekran%20Görüntüsü%20-%202025-10-27%2017-54-17.png)
 
-#### 🧠 Ball Chaser terminal logları  
-![Ball Chaser terminal logları](images/Ekran%20Görüntüsü%20-%202025-10-27%2017-54-17.png)
+#### 🧠 Ball Chaser terminal logları
+![Ball Chaser terminal logları](images/Ekran%20Görüntüsü%20-%202025-10-27%2017-12-41.png)
+
 
 *(Ekran görüntüleri rapor dosyasında bulunmaktadır.)*
 
