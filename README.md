@@ -133,12 +133,6 @@ TF yapısı `ros2 run tf2_tools view_frames` komutuyla **PDF olarak** kaydedilmi
 
 ---
 
-## 🔗 **8. Bağlantılar**
-**🎥 YouTube (Unlisted):** [https://youtu.be/_________](#)  
-**💾 GitHub (Public):** [https://github.com/aliure/BYM412_BallChaser_Robot](#)
-
----
-
-## 🧾 **9. Lisans ve Bilgilendirme**
+## 🧾 **8. Lisans ve Bilgilendirme**
 Bu proje, **BYM412 Robotik Dersi - Ödev 2** kapsamında hazırlanmıştır.  
 Kod ve modeller bireysel olarak geliştirilmiş, üçüncü taraf kaynak kullanılmamıştır.
