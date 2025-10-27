@@ -1,0 +1,1 @@
+/home/aliure/robot_ws/build/my_robot_control/ament_cmake_core/my_robot_controlConfig.cmake

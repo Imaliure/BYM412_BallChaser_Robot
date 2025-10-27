@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing ball_chaser.egg-info/PKG-INFO
+writing dependency_links to ball_chaser.egg-info/dependency_links.txt
+writing entry points to ball_chaser.egg-info/entry_points.txt
+writing requirements to ball_chaser.egg-info/requires.txt
+writing top-level names to ball_chaser.egg-info/top_level.txt
+reading manifest file 'ball_chaser.egg-info/SOURCES.txt'
+writing manifest file 'ball_chaser.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball-chaser.egg-link (link to .)
+Installing ball_chaser_node script to /home/aliure/robot_ws/install/ball_chaser/lib/ball_chaser
+
+Installed /home/aliure/robot_ws/build/ball_chaser
+running symlink_data
+symbolically linking /home/aliure/robot_ws/build/ball_chaser/resource/ball_chaser -> /home/aliure/robot_ws/install/ball_chaser/share/ament_index/resource_index/packages
+symbolically linking /home/aliure/robot_ws/build/ball_chaser/package.xml -> /home/aliure/robot_ws/install/ball_chaser/share/ball_chaser

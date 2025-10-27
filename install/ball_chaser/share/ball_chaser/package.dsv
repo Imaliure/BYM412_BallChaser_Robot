@@ -1,0 +1,9 @@
+source;share/ball_chaser/hook/pythonpath.ps1
+source;share/ball_chaser/hook/pythonpath.dsv
+source;share/ball_chaser/hook/pythonpath.sh
+source;share/ball_chaser/hook/ament_prefix_path.ps1
+source;share/ball_chaser/hook/ament_prefix_path.dsv
+source;share/ball_chaser/hook/ament_prefix_path.sh
+source;../../build/ball_chaser/share/ball_chaser/hook/pythonpath_develop.ps1
+source;../../build/ball_chaser/share/ball_chaser/hook/pythonpath_develop.dsv
+source;../../build/ball_chaser/share/ball_chaser/hook/pythonpath_develop.sh

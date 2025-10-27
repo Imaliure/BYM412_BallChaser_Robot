@@ -1,0 +1,4 @@
+Invoking command in '/home/aliure/robot_ws/build/my_robot_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aliure/robot_ws/build/my_robot_control -- -j12 -l12
+Invoked command in '/home/aliure/robot_ws/build/my_robot_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aliure/robot_ws/build/my_robot_control -- -j12 -l12
+Invoking command in '/home/aliure/robot_ws/build/my_robot_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aliure/robot_ws/build/my_robot_control
+Invoked command in '/home/aliure/robot_ws/build/my_robot_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aliure/robot_ws/build/my_robot_control

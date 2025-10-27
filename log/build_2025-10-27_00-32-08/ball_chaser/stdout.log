@@ -1,0 +1,29 @@
+running egg_info
+creating ../../build/ball_chaser/ball_chaser.egg-info
+writing ../../build/ball_chaser/ball_chaser.egg-info/PKG-INFO
+writing dependency_links to ../../build/ball_chaser/ball_chaser.egg-info/dependency_links.txt
+writing entry points to ../../build/ball_chaser/ball_chaser.egg-info/entry_points.txt
+writing requirements to ../../build/ball_chaser/ball_chaser.egg-info/requires.txt
+writing top-level names to ../../build/ball_chaser/ball_chaser.egg-info/top_level.txt
+writing manifest file '../../build/ball_chaser/ball_chaser.egg-info/SOURCES.txt'
+reading manifest file '../../build/ball_chaser/ball_chaser.egg-info/SOURCES.txt'
+writing manifest file '../../build/ball_chaser/ball_chaser.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/aliure/robot_ws/build/ball_chaser/build
+creating /home/aliure/robot_ws/build/ball_chaser/build/lib
+creating /home/aliure/robot_ws/build/ball_chaser/build/lib/ball_chaser
+copying ball_chaser/ball_chaser_node.py -> /home/aliure/robot_ws/build/ball_chaser/build/lib/ball_chaser
+copying ball_chaser/__init__.py -> /home/aliure/robot_ws/build/ball_chaser/build/lib/ball_chaser
+running install
+running install_lib
+creating /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser
+copying /home/aliure/robot_ws/build/ball_chaser/build/lib/ball_chaser/ball_chaser_node.py -> /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser
+copying /home/aliure/robot_ws/build/ball_chaser/build/lib/ball_chaser/__init__.py -> /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser
+byte-compiling /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser/ball_chaser_node.py to ball_chaser_node.cpython-310.pyc
+byte-compiling /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser/__init__.py to __init__.cpython-310.pyc
+running install_egg_info
+Copying ../../build/ball_chaser/ball_chaser.egg-info to /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser-0.0.0-py3.10.egg-info
+running install_scripts
+Installing ball_chaser_node script to /home/aliure/robot_ws/install/ball_chaser/lib/ball_chaser
+writing list of installed files to '/home/aliure/robot_ws/build/ball_chaser/install.log'

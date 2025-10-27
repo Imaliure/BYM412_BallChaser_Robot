@@ -1,0 +1,3 @@
+[console_scripts]
+ball_chaser_node = ball_chaser.ball_chaser_node:main
+

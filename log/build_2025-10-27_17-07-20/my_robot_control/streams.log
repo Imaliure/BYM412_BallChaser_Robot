@@ -1,0 +1,31 @@
+[0.371s] Invoking command in '/home/aliure/robot_ws/build/my_robot_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aliure/robot_ws/src/my_robot_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aliure/robot_ws/install/my_robot_control
+[0.383s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.536s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.540s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.591s] -- Added test 'lint_cmake' to check CMake code style
+[0.591s] -- Added test 'xmllint' to check XML markup files
+[0.592s] -- Configuring done
+[0.593s] -- Generating done
+[0.594s] -- Build files have been written to: /home/aliure/robot_ws/build/my_robot_control
+[0.596s] Invoked command in '/home/aliure/robot_ws/build/my_robot_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aliure/robot_ws/src/my_robot_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/aliure/robot_ws/install/my_robot_control
+[0.598s] Invoking command in '/home/aliure/robot_ws/build/my_robot_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aliure/robot_ws/build/my_robot_control -- -j12 -l12
+[0.631s] Invoked command in '/home/aliure/robot_ws/build/my_robot_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aliure/robot_ws/build/my_robot_control -- -j12 -l12
+[0.639s] Invoking command in '/home/aliure/robot_ws/build/my_robot_control': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aliure/robot_ws/build/my_robot_control
+[0.647s] -- Install configuration: ""
+[0.648s] -- Execute custom install script
+[0.648s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/ament_index/resource_index/package_run_dependencies/my_robot_control
+[0.649s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/ament_index/resource_index/parent_prefix_path/my_robot_control
+[0.649s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/environment/ament_prefix_path.sh
+[0.649s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/environment/ament_prefix_path.dsv
+[0.649s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/environment/path.sh
+[0.650s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/environment/path.dsv
+[0.650s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/local_setup.bash
+[0.650s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/local_setup.sh
+[0.650s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/local_setup.zsh
+[0.650s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/local_setup.dsv
+[0.650s] -- Symlinking: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/package.dsv
+[0.656s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/ament_index/resource_index/packages/my_robot_control
+[0.656s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/cmake/my_robot_controlConfig.cmake
+[0.656s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/cmake/my_robot_controlConfig-version.cmake
+[0.656s] -- Up-to-date symlink: /home/aliure/robot_ws/install/my_robot_control/share/my_robot_control/package.xml
+[0.658s] Invoked command in '/home/aliure/robot_ws/build/my_robot_control' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aliure/robot_ws/build/my_robot_control

@@ -1,0 +1,19 @@
+[0.752s] Invoking command in '/home/aliure/robot_ws/build/ball_chaser': PYTHONPATH=/home/aliure/robot_ws/build/ball_chaser/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aliure/robot_ws/build/ball_chaser/build --no-deps symlink_data --force
+[0.945s] running develop
+[1.037s] running egg_info
+[1.037s] writing ball_chaser.egg-info/PKG-INFO
+[1.038s] writing dependency_links to ball_chaser.egg-info/dependency_links.txt
+[1.038s] writing entry points to ball_chaser.egg-info/entry_points.txt
+[1.038s] writing requirements to ball_chaser.egg-info/requires.txt
+[1.038s] writing top-level names to ball_chaser.egg-info/top_level.txt
+[1.039s] reading manifest file 'ball_chaser.egg-info/SOURCES.txt'
+[1.039s] writing manifest file 'ball_chaser.egg-info/SOURCES.txt'
+[1.040s] running build_ext
+[1.040s] Creating /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball-chaser.egg-link (link to .)
+[1.041s] Installing ball_chaser_node script to /home/aliure/robot_ws/install/ball_chaser/lib/ball_chaser
+[1.041s] 
+[1.041s] Installed /home/aliure/robot_ws/build/ball_chaser
+[1.041s] running symlink_data
+[1.041s] symbolically linking /home/aliure/robot_ws/build/ball_chaser/resource/ball_chaser -> /home/aliure/robot_ws/install/ball_chaser/share/ament_index/resource_index/packages
+[1.042s] symbolically linking /home/aliure/robot_ws/build/ball_chaser/package.xml -> /home/aliure/robot_ws/install/ball_chaser/share/ball_chaser
+[1.068s] Invoked command in '/home/aliure/robot_ws/build/ball_chaser' returned '0': PYTHONPATH=/home/aliure/robot_ws/build/ball_chaser/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aliure/robot_ws/build/ball_chaser/build --no-deps symlink_data --force

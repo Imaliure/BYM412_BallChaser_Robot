@@ -1,0 +1,32 @@
+[0.648s] Invoking command in '/home/aliure/robot_ws/build/ball_chaser': PYTHONPATH=/home/aliure/robot_ws/build/ball_chaser/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/aliure/robot_ws/build/ball_chaser/build
+[0.812s] running develop
+[0.902s] Removing /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball-chaser.egg-link (link to .)
+[0.924s] Invoked command in '/home/aliure/robot_ws/build/ball_chaser' returned '0': PYTHONPATH=/home/aliure/robot_ws/build/ball_chaser/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/aliure/robot_ws/build/ball_chaser/build
+[0.926s] Invoking command in '/home/aliure/robot_ws/src/ball_chaser': PYTHONPATH=/home/aliure/robot_ws/build/ball_chaser/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ball_chaser build --build-base /home/aliure/robot_ws/build/ball_chaser/build install --record /home/aliure/robot_ws/build/ball_chaser/install.log --single-version-externally-managed install_data --force
+[1.076s] running egg_info
+[1.077s] writing ../../build/ball_chaser/ball_chaser.egg-info/PKG-INFO
+[1.077s] writing dependency_links to ../../build/ball_chaser/ball_chaser.egg-info/dependency_links.txt
+[1.077s] writing entry points to ../../build/ball_chaser/ball_chaser.egg-info/entry_points.txt
+[1.077s] writing requirements to ../../build/ball_chaser/ball_chaser.egg-info/requires.txt
+[1.078s] writing top-level names to ../../build/ball_chaser/ball_chaser.egg-info/top_level.txt
+[1.081s] reading manifest file '../../build/ball_chaser/ball_chaser.egg-info/SOURCES.txt'
+[1.081s] writing manifest file '../../build/ball_chaser/ball_chaser.egg-info/SOURCES.txt'
+[1.082s] running build
+[1.082s] running build_py
+[1.082s] copying ball_chaser/ball_chaser_node.py -> /home/aliure/robot_ws/build/ball_chaser/build/lib/ball_chaser
+[1.082s] running install
+[1.082s] running install_lib
+[1.083s] creating /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser
+[1.083s] copying /home/aliure/robot_ws/build/ball_chaser/build/lib/ball_chaser/ball_chaser_node.py -> /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser
+[1.084s] copying /home/aliure/robot_ws/build/ball_chaser/build/lib/ball_chaser/__init__.py -> /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser
+[1.084s] byte-compiling /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser/ball_chaser_node.py to ball_chaser_node.cpython-310.pyc
+[1.084s] byte-compiling /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser/__init__.py to __init__.cpython-310.pyc
+[1.084s] running install_data
+[1.085s] copying resource/ball_chaser -> /home/aliure/robot_ws/install/ball_chaser/share/ament_index/resource_index/packages
+[1.085s] copying package.xml -> /home/aliure/robot_ws/install/ball_chaser/share/ball_chaser
+[1.085s] running install_egg_info
+[1.087s] Copying ../../build/ball_chaser/ball_chaser.egg-info to /home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages/ball_chaser-0.0.0-py3.10.egg-info
+[1.087s] running install_scripts
+[1.109s] Installing ball_chaser_node script to /home/aliure/robot_ws/install/ball_chaser/lib/ball_chaser
+[1.109s] writing list of installed files to '/home/aliure/robot_ws/build/ball_chaser/install.log'
+[1.138s] Invoked command in '/home/aliure/robot_ws/src/ball_chaser' returned '0': PYTHONPATH=/home/aliure/robot_ws/build/ball_chaser/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aliure/robot_ws/install/ball_chaser/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ball_chaser build --build-base /home/aliure/robot_ws/build/ball_chaser/build install --record /home/aliure/robot_ws/build/ball_chaser/install.log --single-version-externally-managed install_data --force
