@@ -138,4 +138,3 @@ https://youtu.be/wPxXBfXVrbI?si=fDRzpAiYJ7bMN6Ja
 ---
 ## 🧾 **9. Lisans ve Bilgilendirme**
 Bu proje, **BYM412 Robotik Dersi - Ödev 2** kapsamında hazırlanmıştır.  
-Kod ve modeller bireysel olarak geliştirilmiş, üçüncü taraf kaynak kullanılmamıştır.
