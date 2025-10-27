@@ -118,7 +118,8 @@ TF yapısı `ros2 run tf2_tools view_frames` komutuyla **PDF olarak** kaydedilmi
 ---
 
 ## 📸 **7. Görseller**
-- Gazebo ortamında robot + top görüntüsü  
+- Gazebo ortamında robot + top görüntüsü
+  images/Ekran Görüntüsü - 2025-10-27 17-15-01.png
 - RViz ekranı (model + TF + kamera görüntüsü)  
 - Ball Chaser terminal logları  
 
