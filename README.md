@@ -132,9 +132,7 @@ TF yapısı `ros2 run tf2_tools view_frames` komutuyla **PDF olarak** kaydedilmi
 *(Ekran görüntüleri rapor dosyasında bulunmaktadır.)*
 
 ---
-🔗 **8. Video ve Bağlantılar
-
-🎥 YouTube (Unlisted) Video:
+🔗 **8. 🎥 YouTube (Unlisted) Video:
 👉 BYM412 Ödev 2 - Ball Chaser Robot | Ali Üre (220609040)
 ---
 ## 🧾 **9. Lisans ve Bilgilendirme**
